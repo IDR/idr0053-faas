@@ -29,7 +29,7 @@ Study Person ORCID
 Study Person Roles				
 				
 # Study License and Data DOI				
-Study License	CC BY-NC-SA			
+Study License	CC BY-NC-SA 3.0			
 Study License URL	https://creativecommons.org/licenses/by-nc-sa/3.0/			
 Study Copyright	Faas et al.			
 Study Data Publisher	University of Dundee			
